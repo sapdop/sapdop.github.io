@@ -1465,7 +1465,7 @@
             "showButtons": false
           },
           "title": "Oh it's a 404!",
-          "text": "Seems like the page you requested is imaginary just like my girlfriend.",
+          "text": "Seems like the page you requested is imaginary, just like my girlfriend.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
