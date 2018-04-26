@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "404.html",
+    "currentPage": "Games.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -752,7 +752,7 @@
             }
           },
           "title": "RAMEN RUN",
-          "text": "Mobile title - Endless runner with a delivery mechanic embedded.<br>Responsible for code alongside another programmer.",
+          "text": "Mobile title - Endless runner with a delivery mechanic embedded.<br>Responsible for the codebase alongside another programmer.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sapdop.com\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
@@ -805,7 +805,7 @@
             }
           },
           "title": "SOLITAIRE",
-          "text": "Unreleased mobile title - Feature rich solitaire.<br>Responsible for Code.",
+          "text": "Unreleased mobile title - Feature rich solitaire.<br>Responsible for the code base of the entire game.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sapdop.com\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
@@ -858,7 +858,7 @@
             }
           },
           "title": "CURVY TURN",
-          "text": "Unreleased mobile title - Endless &nbsp;vehicle simulator",
+          "text": "Unreleased mobile title - Endless &nbsp;vehicle simulator.<br>Responsible for everything - Art/Design/Code.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sapdop.com\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
