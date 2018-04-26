@@ -44,7 +44,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "60px"
             },
             ".mbr-section-lead": {
