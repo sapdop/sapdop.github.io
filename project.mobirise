@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 35,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/website-icon-128x128.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-118276565-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-118276565-1');\r\n</script>\r\n"
   },
@@ -1197,7 +1197,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/splashimage-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "sapdop.com",
