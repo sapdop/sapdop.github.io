@@ -1851,7 +1851,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x374.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
