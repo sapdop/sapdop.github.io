@@ -50,8 +50,8 @@
             ".mbr-section-lead": {
               "color": "#be9d8b",
               "font-size": "30px",
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
               "text-align": "center"
             }
           },
