@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "AboutMe.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -315,7 +315,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         }
       ]
     },
@@ -1425,7 +1425,7 @@
             }
           },
           "title": "SRIVATSAN PB",
-          "text": "Videogame programmer/developer from Hyderabad, India who likes to play Fortnite just to lose. I love solving problems and chugging jugs of c0ffee down.Workwise, I mostly dealt with mobile games until now.<br> <br>And you're here to know more about me?<br>Sure thing, I'm currently in my final year of &nbsp;my bachelors of technology in Computer Science and Game development, So that makes me around 20 years old . I enjoy writing bots that play the one-tap games, I can code fluently in C#,C++,a bit of python here and there &nbsp;and can speak 4 human languages. I'm totally introverted so I can't keep this conversation up any longer without a panic attack being triggered but feel free to contact me, I'm cool with answering questions. <br><br>P.S. \"sapdop\" is a random name I made-up for my gamer-tag. &nbsp;",
+          "text": "Videogame programmer/developer from Hyderabad, India who likes to play Fortnite just to lose. I love solving problems and chugging jugs of c0ffee down.Workwise, I mostly dealt with mobile games until now.<br> <br>And you're here to know more about me?<br>Sure thing, I'm currently in my final year of &nbsp;bachelors of technology in Computer Science and Game development, So that makes me around 20 years old . I enjoy writing bots that play the one-tap games, I can code fluently in C#,C++,a bit of python here and there &nbsp;and can speak 4 human languages. I'm totally introverted so I can't keep this conversation up any longer without a panic attack being triggered but feel free to contact me, I'm cool with answering questions. <br><br>P.S. \"sapdop\" is a random name I made-up for my gamer-tag. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
         },
         {
