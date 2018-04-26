@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "AboutMe.html",
+    "currentPage": "404.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -179,10 +179,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/splashimage-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "sapdop.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -539,10 +539,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/splashimage-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "sapdop.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -633,10 +633,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/splashimage-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "sapdop.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -969,10 +969,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/splashimage-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "sapdop.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1200,7 +1200,7 @@
               "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "sapdop.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1414,10 +1414,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/splashimage-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "sapdop.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
