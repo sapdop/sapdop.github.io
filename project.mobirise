@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Services.html",
+    "currentPage": "AboutMe.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1425,7 +1425,7 @@
             }
           },
           "title": "SRIVATSAN PB",
-          "text": "Videogame programmer/developer from Hyderabad, India who likes to play Fortnite just to lose. I love solving problems and chugging jugs of c0ffee down.Workwise, I mostly dealt with mobile games until now.<br> <br>And you're here to know more about me?<br>Sure thing, I'm currently in my final year of &nbsp;bachelors of technology in Computer Science and Game development, So that makes me around 20 years old . I enjoy writing bots that play the one-tap games, I can code fluently in C#,C++,a bit of python here and there &nbsp;and can speak 4 human languages. I'm totally introverted so I can't keep this conversation up any longer without a panic attack being triggered but feel free to contact me, I'm cool with answering questions. <br><br>P.S. \"sapdop\" is a random name I made-up for my gamer-tag. &nbsp;",
+          "text": "Videogame programmer/developer from Hyderabad, India who likes to play Fortnite just to lose. I love solving problems, cooking and chugging jugs of c0ffee down.Workwise, I mostly dealt with mobile games until now.<br> <br>And you're here to know more about me?<br>Sure thing, I'm currently in my final year of &nbsp;bachelors of technology in Computer Science and Game development, So that makes me around 20 years old . I enjoy writing bots that play the one-tap games, I can code fluently in C#,C++,a bit of python here and there &nbsp;and can speak 4 human languages. I'm totally introverted so I can't keep this conversation up any longer without a panic attack being triggered but feel free to contact me, I'm cool with answering questions. <br><br>P.S. \"sapdop\" is a random name I made-up for my gamer-tag. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
         },
         {
@@ -1932,6 +1932,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
           "_anchor": "features2-18",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -2042,12 +2047,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
