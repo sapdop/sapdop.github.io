@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "AboutMe.html",
+    "currentPage": "Services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1968,8 +1968,9 @@
               "name": "chat",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Getting in touch",
@@ -1983,8 +1984,9 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Documentation",
@@ -1993,12 +1995,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "",
               "size": 0,
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title3": "WIP",
@@ -2012,8 +2016,9 @@
               "name": "delivery",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title4": "Delivery",
