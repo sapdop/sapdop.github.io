@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "AboutMe.html",
+    "currentPage": "Post1_WinningDeal.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 48,
+    "uniqCompNum": 57,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/website-icon-128x128.png",
     "noImageResize": "",
@@ -39,6 +39,92 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1c",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+        },
         {
           "_inherit": "header1",
           "_styles": {
@@ -126,7 +212,7 @@
           "title1": "Blog",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "If you're interested in reading through content about various algorithms or general stuff , Head to the blog section!",
-          "button1": "<a data-app-btn=\"true\" href=\"404.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LATEST POST</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Post1_WinningDeal.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LATEST POST</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -230,7 +316,15 @@
           },
           "text": "FOLLOW&nbsp;",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/B.VaTsaN.P\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vatsan_pb1/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
+        }
+      ]
+    },
+    "Art.html": {
+      "settings": {
+        "title": "Art Portfolio",
+        "meta_descr": "Voxel art and vector art references"
+      },
+      "components": [
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -284,7 +378,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-7",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -315,16 +409,8 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
-        }
-      ]
-    },
-    "Art.html": {
-      "settings": {
-        "title": "Art Portfolio",
-        "meta_descr": "Voxel art and vector art references"
-      },
-      "components": [
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+        },
         {
           "_tags": [
             "Theme"
@@ -588,94 +674,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME",
+          "text": "FOLLOW",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/B.VaTsaN.P\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vatsan_pb1/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-6",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         }
       ]
     },
@@ -738,7 +738,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-7",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -769,7 +769,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1010,7 +1010,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME",
+          "text": "FOLLOW",
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/B.VaTsaN.P\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vatsan_pb1/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
@@ -1074,7 +1074,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-e",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1105,7 +1105,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1302,7 +1302,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-h",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1333,7 +1333,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -1519,7 +1519,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-v",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1550,7 +1550,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1651,7 +1651,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-12",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -1682,7 +1682,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2145,7 +2145,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-19",
+          "_anchor": "menu-1c",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -2176,7 +2176,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Resume</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">New Item</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_inherit": "header1",
@@ -2215,6 +2215,269 @@
           "title": "The webpage you requested is&nbsp;under construction.",
           "text": "Stay tuned!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+        }
+      ]
+    },
+    "Post1_WinningDeal.html": {
+      "settings": {
+        "title": "Winning Deal Algorithm",
+        "meta_descr": "Winning deal algorithm for dealing a winnable sequence in the game of solitaire"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1c",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-1d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/cards-1-1400x816.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WINNING DEAL ALGORITHM",
+          "text": "How do some solitaire games out there deal cards? This a brief post on how to deal cards in a solitaire game such that every dealt sequence <b>will</b> have a solution i.e every game is winnable.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#f28281",
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Introduction",
+          "meta": "You can skip this part if you know how to play solitaire"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Ever played solitaire before? Don't worry if the answer is no , I'll brief you the rules so that we'll all be on the same page. A typical one-player solitaire game is played with one full deck of cards i.e <b>52</b> cards - <b>14</b> cards of each suit - <b>Diamonds</b> , <b>Clubs</b> , <b>Spades</b> and <b>Hearts</b>. The 14 cards are <b>1-10 number cards</b> where 1 is usually called as the Ace then we have a <b>Jack</b>, a <b>Queen</b> and a <b>King</b>. Now to put the entire solitaire game in a single line , you basically have to seperate all the 4 suits and pile them up in a sorted order.</p>",
+          "text2": "<ul><li>You'll have <b>7</b> piles of cards infront of you arranged in such a way that the first pile has 1 card , the second one has 2 , third pile has 3 and so on. That puts 28 cards in these piles right? But the catch is you can only see the top most card in each pile.</li><li>Then you have the waste deck , where all the remaining 52 minus 28 which is 24 cards are placed all upside down.</li><li>At first you can only move the top card of each pile , and you can stack it on another pile only if the top card of that pile is \"<b>Opposite color and the next higher value card</b>\" of this card. For example you can only stack a hearts of 7 on either clubs of 8 or spades of 8. </li><li>After you move and stack a card onto another pile , you'll be able to move these two cards together as they are in the sorted region of a pile. If there are no possible moves in any of the seven piles , you can get cards from the deck as well. Depending on how many cards you can draw at a time (usually to put in difficulty levels like Easy , Hard in the game) they let you draw 1 card at &nbsp;a time for an easy game , 3 for a harder one.</li><li>And there are 4 empty suit piles , where you can only pile cards of a single suit in each and you have to pile them starting from Ace to King. Once you pile all the cards into these 4 suit piles , you win the game!</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "The main part!",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>So , now we'll get to the main business. When you're making a solitaire game yourself, you write your code in such a way that each time a player plays the game , you deal the cards randomly and the game starts. Good! Some of you , just like me a few months ago, might run into this situation where you know some sequences that are generated randomly are <b>not at all</b> solvable i.e no matter what , there is no solution for that sequence. </p><p>Few months ago , I was an intern at a company and my responsibility was to write the entire code-base for a mobile solitaire game. They even gave me a reference game which I was supposed to study and implement all the features it has. &nbsp;Now one thing that bugged me was that it had 2 different dealing methods , one is a \"<b>Random deal</b>\" and the other is a \"<b>Winning deal</b>\". And every sequence that came out of &nbsp;a winning deal is <b>solvable </b>and has a solution but the random one can/cannot be solvable. Now I think there are <b>52!</b> sequences i.e you can arrange the cards in <b>52!</b> ways for the game but not all of them have a solution to complete the game. So how will you deal the cards in such a way that the sequence you dealt has a solution to win?</p><p><br></p><p><b>Random deal :</b> You have your 52 cards , you have 8 places to place them (7 table piles and the waste deck). You can take each card out and place them randomly in any of these places or you can fill the piles one after another.</p><p><br></p><p><b>Winning deal :</b> It's actually simple as duck. Now for a dealt sequence to be a winning sequence , instead of dealing the cards from a shuffled deck , you first seperate all the suits , sort them from Ace to King such that King is on top. Then you have to make 2 random selections. <b>1)</b> Which suit pile to deal from , <b>2)</b> Where to put it i.e you select a random suit pile to deal a card - take the top most card in that pile, then select a random table pile to place this card on and place it there. This selection - place mechanism runs as long as any of the suit piles have cards in them. <b>Or</b> you can do it the other way around where you make the first random selection of selecting a suit pile to deal the card from everytime and you go pile to pile where you go to a table pile, fill it completely with these random selections, then go to the next one and so on. There are total 8 piles to fill on the table &nbsp;(7 main piles and the waste deck).&nbsp;</p><p><br></p><p>Now this sequence which is dealt using the winning deal algorithm <b>will</b> have a solution and is <b>solvable</b>. Note that this is just a brief intoduction to the algorithm, I'll try to put up a working example and pseudo code for this in the future posts.</p><p><br></p><p>That's all for today. Peace out!</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/SAPDOP/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1978.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/B.VaTsaN.P\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vatsan_pb1/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     }
