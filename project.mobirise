@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Post1_WinningDeal.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -205,8 +205,9 @@
               "name": "sites",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title1": "Blog",
@@ -220,8 +221,9 @@
               "name": "laptop",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title2": "Services",
@@ -235,8 +237,9 @@
               "name": "hot-cup",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title3": "Collaboration",
@@ -250,8 +253,9 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": 0,
+              "newWindow": false
             }
           },
           "title4": "Portfolio",
