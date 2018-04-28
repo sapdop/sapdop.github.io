@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Post2_MazeGen1HnK.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 68,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/website-icon-128x128.png",
     "noImageResize": "",
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_inherit": "header1",
@@ -212,7 +212,7 @@
           },
           "title1": "Blog",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "If you're interested in reading through content about various algorithms or general stuff , Head to the blog section!",
+          "caption1": "If you're interested in reading through random stuff, Head to the blog section where I pick up a random topic and talk about it every now and then!",
           "button1": "<a data-app-btn=\"true\" href=\"Post1_WinningDeal.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LATEST POST</a>",
           "media2": {
             "iconFont": {
@@ -413,7 +413,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -773,7 +773,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1109,7 +1109,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -1337,7 +1337,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_styles": {
@@ -1554,7 +1554,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1686,7 +1686,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2180,7 +2180,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_inherit": "header1",
@@ -2312,7 +2312,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
         },
         {
           "_tags": [
@@ -2372,7 +2372,7 @@
             }
           },
           "title": "WINNING DEAL ALGORITHM",
-          "text": "How do some solitaire games out there deal the cards? This a brief post on how to deal cards in a solitaire game such that every dealt sequence <b>will</b> have a solution i.e every game is winnable.&nbsp;",
+          "text": "<span style=\"font-size: 1.07rem; line-height: 1.5;\">How do some solitaire games out there deal the cards? This a brief post on how to deal cards in a solitaire game such that every dealt sequence </span><b style=\"font-size: 1.07rem; line-height: 1.5;\">will</b><span style=\"font-size: 1.07rem; line-height: 1.5;\"> have a solution i.e every game is winnable.</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -2468,6 +2468,306 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-1g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "file:///C:/Users/SAPDOP/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-2000x1978.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/B.VaTsaN.P\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vatsan_pb1/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+        }
+      ]
+    },
+    "Post2_MazeGen1HnK.html": {
+      "settings": {
+        "title": "Hunt and Kill - Maze generation algorithm",
+        "meta_descr": "Hunt and kill algorithm for maze generation"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#3d8eb9!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1n",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/website-icon-1-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAPDOP</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"AboutMe.html\">ABOUT ME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"true\">BLOG</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"sapdop.com\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">April 2018</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post1_WinningDeal.html\">Winning deal algorithm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Post2_MazeGen1HnK.html\">Hunt and kill algorithm</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"sapdop.com\" aria-expanded=\"false\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Games.html\">Games</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Art.html\">Art</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"UnderConstruction.html\">Resume</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact.html\">CONTACT</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box5-1o",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/maze-2-1400x816.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "HUNT AND KILL ALGORITHM",
+          "text": "Ever tried to write a maze generator? Hunt and kill is one of my favourites for maze generation.<br><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#f28281",
+              "font-size": "36px"
+            },
+            "SMALL": {
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Foreplay",
+          "meta": "mazes and mazes everywhere"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>We all know what a maze is. Bunch of walls , one entrance and one exit, find your way out or rot inside. Mazes are always amazing because they teach you one important lesson - When you run into a dead end , there's nothing to be afraid of to turn back and try a different path because it's always better than just stopping there and staring at that boring wall.&nbsp;</p>",
+          "text2": "<ul><li>Okay , enough of bullshittery , so how would you generate a maze? One way of doing it is - Take an NxN grid with N*N cells obviously , and put walls on all 4 sides for each cell and let your little piece of code break some random walls , connect some random cells and Viola! You have your maze.&nbsp;</li><li>Now let's put that into more of a programmer-ish terms. We have a huge graph where each cell we were just talking about is a node. So generating a maze is basically creating a sub-graph with a path to move between 2 different nodes(start and end). Difficulty of the maze depends on how complicated the path between these 2 particular nodes is. So breaking the wall &nbsp;between two cells is basically creating a link between two nodes to traverse in-between.&nbsp;</li><li>There are an arsenal of algorithms to do that , and hunt and kill is one of them.</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "The main part!",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Hunt and Kill&nbsp;</b></p><p>In this algorithm there are 2 phases. Hunting and Killing.</p><p><br></p><p><b>start :</b> We start of by selecting a <b>random cell</b>. Then we start the <b>killing phase.</b></p><p><b>Killing phase :</b> Do a random walk from the current cell - Go to any one of the adjacent cells which are connected to the current one (Horizontally / Vertically ) and kill that cell. (Killing is basically removing the wall between these 2 cells) and repeat this step everytime you kill a cell, making that cell as your current cell. (Remeber that you can only kill someone who's not dead. Don't shoot the corpse ffs i.e don't visit the visited cell again).</p><p>Simple isn't it? &nbsp;But sometimes you run into dead ends where every cell around you is dead or in simple terms all the cells around you are visited and you know the drill - you can't visit a cell which is already visited or when the current cell is surrounded by 3 visited cells and the main wall which is the boundary , so you can't break it. What to do then? You go for hunting. Just like the cavemen. &nbsp;When they ran out food in one place , they used to sail off to another place which had food.&nbsp;</p><p><b>Hunting phase :&nbsp;</b>In the event of a dead end, you start of from the first row in the grid and search cell by cell until you find a cell that satisfies your desires , which are 1) It should be unvisited , 2) It should be connected to a visited cell (Horizontally / Vertically). When you find the cell of your dreams, you break the wall between this cell and the cell it was connected to , then you make this one your current cell and start on a killing spree again.&nbsp;</p><p><b>end :</b> The algorithm ends when all the cells are dead i.e visited.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Climax",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>You have a randomly generated maze! </b>Think of it this way. You're a deadly virus. Magically you infect one person in a grid. Now you just go on a vacation , killing random people who are connected to your current host (either horizontally / vertically)<span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;and make them your current host. Now once you run into a corner where you're surrounded by corpses , you hop on a flight searching for a next healthy host who's beside a corpse and make him/her your current host. You stop once everyone in the grid is dead. During this process of moving from one host to another , you make a connection between those two hosts so that you're kids can do a practise run from one corpse to another. Things we do for mazes.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">By the way, if you're really interested in maze generation and plenty of other algorithms which do that , this guy holds the bible for that . I wish I could meet him once.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Peace out!</span></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#232323"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1t",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
