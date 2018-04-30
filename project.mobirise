@@ -213,7 +213,7 @@
           "title1": "Blog",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "If you're interested in reading through random stuff, Head to the blog section where I pick up a random topic and talk about it every now and then!",
-          "button1": "<a data-app-btn=\"true\" href=\"Post3_Bot1BlackSmithHit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LATEST POST</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Post1_WinningDeal.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LATEST POST</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
