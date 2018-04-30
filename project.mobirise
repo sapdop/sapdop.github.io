@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Post2_MazeGen1HnK.html",
+    "currentPage": "Art.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -421,7 +421,7 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
+            "paddingTop": "3",
             "paddingBottom": 0,
             "images": [
               {
