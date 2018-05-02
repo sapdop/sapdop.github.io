@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/website-icon-128x128.png",
     "noImageResize": "",
@@ -1693,10 +1693,10 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-14",
+          "_anchor": "features3-2s",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1718,7 +1718,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x375.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1730,7 +1730,7 @@
           },
           "title1": "Prototyping",
           "subtitle1": "Unity / Corona SDK",
-          "caption1": "If you have an idea in mind and want to transform into a working product, I can help you with that. But \"scope\" is something to keep in mind as I can't get the next AAA title out alone.",
+          "caption1": "Fully working prototype tailored according to the requirements.",
           "button1": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
           "media2": {
             "image": {
@@ -1740,9 +1740,9 @@
               "active": true
             }
           },
-          "title2": "Polishing",
+          "title2": "Polishing&nbsp;",
           "subtitle2": "Live project",
-          "caption2": "If you already have a game ready and looking to polish it so that it'll appeal and cater to a wider audience, I can give you a detailed document on what and how to polish all the features that you're offering , from a designer's perspective.",
+          "caption2": "UX and over-all look and feel of the game, Feature polishing.",
           "button2": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
           "media3": {
             "image": {
@@ -1754,7 +1754,7 @@
           },
           "title3": "Content Creation / Documentation",
           "subtitle3": "Technical",
-          "caption3": "If you have any SDK/API ready that needs to be documented or if you need text-based tutorials for something , Can be done in ample time.",
+          "caption3": "SDK/API documentation , Techincal content creation.",
           "button3": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
           "media4": {
             "image": {
@@ -1764,9 +1764,9 @@
               "active": true
             }
           },
-          "title4": "Websites",
+          "title4": "Website",
           "subtitle4": "Mobirise and Github pages/Gitlab",
-          "caption4": "If you need a simple website , like mine with static content , Can be done in matter of hours if you have your domain ready.",
+          "caption4": "Simple / Elegant website for your business.",
           "button4": "<a data-app-btn=\"true\" href=\"Contact.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">GET IN TOUCH</a>",
           "media5": {
             "image": {
@@ -1867,8 +1867,8 @@
           },
           "title3": "Mobile app &nbsp;Front-End",
           "subtitle3": "React Native",
-          "caption3": "Entire front-end for your app.",
-          "button3": "<a data-app-btn=\"true\" href=\"404.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "caption3": "Entire front-end of your app, wireframing.",
+          "button3": "<a data-app-btn=\"true\" href=\"404.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/website-icon-600x600.png",
@@ -1883,8 +1883,8 @@
           },
           "title4": "Logo Design",
           "subtitle4": "Inkscape / Gimp",
-          "caption4": "Beautiful logo for your business.",
-          "button4": "<a data-app-btn=\"true\" href=\"404.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "caption4": "Logo for your business.",
+          "button4": "<a data-app-btn=\"true\" href=\"404.html\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1928,7 +1928,7 @@
             "showMeta": true
           },
           "title": "Work pipeline",
-          "meta": "How things move"
+          "meta": "How things work"
         },
         {
           "_inherit": "features1",
@@ -1979,7 +1979,7 @@
           },
           "title1": "Getting in touch",
           "subtitle1": "",
-          "caption1": "The scope , timeline , charge and output quality will be discussed in the initial discussions.",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1995,7 +1995,7 @@
           },
           "title2": "Documentation",
           "subtitle2": "",
-          "caption2": "Detailed document will be sent with things like - list of tasks, milestones and ETA.",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -2011,7 +2011,7 @@
           },
           "title3": "WIP",
           "subtitle3": "",
-          "caption3": "Work in progress - Progress can be tracked via project management applications like Trello.",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -2027,7 +2027,7 @@
           },
           "title4": "Delivery",
           "subtitle4": "",
-          "caption4": "Output will be sent for verification and the pipeline terminates. Additional support will be based on initial discussions.",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
