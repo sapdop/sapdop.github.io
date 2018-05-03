@@ -3836,7 +3836,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Types of syncrhonization protocols : </b>There are many protocols out there which help you with this synchronization. They all can be classified mainly into 2 types.&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b>&nbsp;1) Permission based protocols :</b> For a node in the distributed network to enter into its critical section, it has to obtain permission from all the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;other nodes. &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; <b>2)</b>&nbsp;<b>Token based mutex protocols : </b>A token is circulated across the distributed network. For a node to enter its critical section , it has to have the token. (Mutex - preventing simultaneous access to a shared resource).<br></p>"
+          "text": "<p><b>Types of syncrhonization protocols : </b>There are many protocols out there which help you with this synchronization. They all can be classified mainly into 2 types.&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b>&nbsp;1) Permission based protocols :</b> For a node in the distributed network to enter into its critical section, it has to obtain permission from all the other nodes. &nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; <b>2)</b>&nbsp;<b>Token based mutex protocols : </b>A token is circulated across the distributed network. For a node to enter into its critical section , it has to have the token. (Mutex - preventing simultaneous access to a shared resource).<br></p>"
         },
         {
           "_styles": {
