@@ -1609,3 +1609,105 @@ h6,
   font-size: 36px;
   color: #232323;
 }
+#menu-3b .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3b .navbar-caption {
+  color: #ffffff;
+}
+#menu-3b .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3b .close-icon::before,
+#menu-3b .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3b .link,
+#menu-3b .dropdown-item {
+  color: #ffffff;
+}
+#menu-3b .link {
+  font-size: 0.75rem;
+}
+#menu-3b .dropdown-item,
+#menu-3b .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-3b .link:hover,
+#menu-3b .dropdown-item:hover,
+#menu-3b .link:focus,
+#menu-3b .dropdown-item:focus {
+  color: #3d8eb9;
+}
+#menu-3b .link[aria-expanded="true"],
+#menu-3b .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-3b .nav-dropdown-sm .link:focus,
+#menu-3b .nav-dropdown-sm .link:hover,
+#menu-3b .nav-dropdown-sm .dropdown-item:focus,
+#menu-3b .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-3b .navbar,
+#menu-3b .nav-dropdown-sm,
+#menu-3b .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3b .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-3b .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3b .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3b .bg-color.transparent.opened .link:hover,
+#menu-3b .bg-color.transparent.opened .link:focus {
+  color: #3d8eb9;
+}
+#menu-3b .link[aria-expanded="true"],
+#menu-3b .dropdown-item[aria-expanded="true"] {
+  color: #3d8eb9!important;
+}
+#msg-box5-3c H3 {
+  text-align: center;
+}
+#msg-box5-3c P {
+  text-align: center;
+}
+#header3-3d .mbr-section-title,
+#header3-3d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3d H3 {
+  color: #f28281;
+  font-size: 36px;
+}
+#header3-3d SMALL {
+  color: #232323;
+}
+#header3-3f .mbr-section-title,
+#header3-3f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3f H3 {
+  font-size: 36px;
+  color: #f28281;
+}
+#header3-3h .mbr-section-title,
+#header3-3h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3h H3 {
+  font-size: 36px;
+  color: #f28281;
+}
+#social-buttons2-3j .mbr-section-title,
+#social-buttons2-3j .btn-social {
+  color: #232323;
+}
+#social-buttons2-3j .mbr-section-title {
+  font-size: 36px;
+  color: #232323;
+}

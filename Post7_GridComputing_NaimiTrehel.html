@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/website-icon-128x128.png" type="image/x-icon">
   <meta name="description" content="Synchronization protocols for sharing resources in a distributed system - Token based algorithm">
-  <title>Grid Computing - Martin's algorithm</title>
+  <title>Grid Computing - Naimi Trehel's algorithm</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin">
@@ -24,7 +24,7 @@
   
 </head>
 <body>
-  <section id="menu-32" data-rv-view="10">
+  <section id="menu-3b" data-rv-view="29">
 
     <nav class="navbar navbar-dropdown navbar-fixed-top">
         <div class="container">
@@ -57,7 +57,7 @@
 
 </section>
 
-<section class="engine"><a href="https://mobirise.me/e">make a website for free</a></section><section class="mbr-section mbr-after-navbar" id="msg-box5-33" data-rv-view="12" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 40px;">
+<section class="engine"><a href="https://mobirise.me/x">css templates</a></section><section class="mbr-section mbr-after-navbar" id="msg-box5-3c" data-rv-view="31" style="background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 40px;">
 
     
     <div class="container">
@@ -67,10 +67,10 @@
               
 
               <div class="mbr-table-cell col-md-5 text-xs-center text-md-right content-size">
-                  <h3 class="mbr-section-title display-2">MARTIN'S ALGORITHM *DISTRIBUTED COMPUTING IN A GRID*</h3>
+                  <h3 class="mbr-section-title display-2">NAIMI-TREHEL's ALGORITHM *DISTRIBUTED COMPUTING IN A GRID*</h3>
                   <div class="lead">
 
-                    <p>What the heck is Martin's algorithm? And how is it used in a distributed grid network?<br><span style="font-size: 1.07rem; line-height: 1.5;">&nbsp;</span><br></p>
+                    <p>What the heck is Naimi Trehel's algorithm? And how is it used in a distributed grid network?<br><span style="font-size: 1.07rem; line-height: 1.5;">&nbsp;</span><br></p>
 
                   </div>
 
@@ -91,29 +91,29 @@
 
 </section>
 
-<section class="mbr-section mbr-section__container article" id="header3-34" data-rv-view="15" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section mbr-section__container article" id="header3-3d" data-rv-view="34" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
                 <h3 class="mbr-section-title display-2">Foreplay</h3>
-                <small class="mbr-section-subtitle">Martin's algorithm</small>
+                <small class="mbr-section-subtitle">Naimi-Trehel's algorithm</small>
             </div>
         </div>
     </div>
 </section>
 
-<section class="mbr-section article mbr-section__container" id="content6-35" data-rv-view="17" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section article mbr-section__container" id="content6-3e" data-rv-view="36" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-md-6 lead">As we already talked about how the resource sharing and synchronization is acheived in a grid for distributed computing in the <a href="Post5_GridComputing_init.html">last post</a>, Martin's algorithm is one of those synchronization protocols where the perfect sync. is achieved using a token.</div>
-            <div class="col-xs-12 col-md-6 lead"><ul><li>In Martin's algorithm , atleast the bare bones version of it , uses the topology of a<strong> ring </strong>where all the nodes are arranged in the form a ring , not physically but <strong>logically</strong>.&nbsp;</li><li>As we know, in the token based protocols , for a node to enter its critical section , it has to have the <strong>token</strong>. This token is moved in one direction of the ring , traversing through all the nodes one by one. When the token enters a node, then and only then , that &nbsp;node can execute its magical operations on the shared resources.</li><li>But there is something called <strong>request</strong> , where nodes can request to enter the critical section. The requests travel in the opposite direction of the token.</li></ul></div>
+            <div class="col-xs-12 col-md-6 lead">Second algorithm in the token based protocols for synchronizing resource sharing in a grid. The introduction of the syncrhonization and distributed computing in a grid is covered <a href="Post5_GridComputing_init.html">here</a>.</div>
+            <div class="col-xs-12 col-md-6 lead"><ul><li>Naimi-Trehel's algorithm achieves the synchronized resource sharing in the grid by maintaining just 2 structures. One is a <strong>logical dynamic tree</strong> and a<strong> queue</strong>.&nbsp;</li><li>A dynamic tree is a data structure where the root of the tree changes every now and then.&nbsp;</li><li>The author of <a href="https://www.google.com/search?q=fundamentals+of+grid+computing&ie=utf-8&oe=utf-8&client=firefox-b-ab">this book</a> calls these both <strong>LAST</strong> <strong>tree</strong> and<strong> NEXT queue</strong> respectively.</li><li>Each node holds 2 references. One points to the root node of the <strong>LAST </strong>tree and the <strong>NEXT</strong> node i.e which node should receive the token next w.r.t it.</li></ul></div>
         </div>
     </div>
 
 </section>
 
-<section class="mbr-section mbr-section__container article" id="header3-36" data-rv-view="19" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section mbr-section__container article" id="header3-3f" data-rv-view="38" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -124,17 +124,17 @@
     </div>
 </section>
 
-<section class="mbr-section article mbr-section__container" id="content1-37" data-rv-view="21" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section article mbr-section__container" id="content1-3k" data-rv-view="48" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p>For example , consider 5 nodes A, B, C, D, E arranged in a logical ring. Consider C and D put a request to enter their critical sections. So the request of C goes to B, B checks if there are any pending requests with it. If there are no pending requests in B , it forwards the request to A which holds the token. Similarly , D's request goes to C. But C already has a request which is it's own, so the request doesn't move forward. When the token circulation initiates, the token first goes to B , then to C. C enters its critical section and then sends it to D. Then enters its critical section and moves the token forward.</p><p><strong>Algorithm :</strong></p><p>For each node in the network,</p><p>&nbsp; &nbsp; <strong>1)</strong> If you need to enter critical section, request your <strong>predecessor.</strong> Then for the predecessor - if there are no pending requests with it, you forward the request to the next predecessor and this goes on till the request reaches a node either with the token or pending requests. The circulation of the request stops there.</p><p>&nbsp; &nbsp; <strong>2)</strong> Token is given to the <strong>successor</strong>, enter into critical section if needed , else just pass it on to the successor.&nbsp;</p><p><br></p><p><strong>Note :</strong> One can only enter into critical section if they put a request for it. So from the above example , as B did not request for a critical section , it just passes on the token to C directly as it also has no pending requests.</p></div>
+            <div class="col-xs-12 lead"><p>So how do we determine what will be the <strong>root</strong> of the<strong> LAST tree </strong>and what will be the<strong> NEXT </strong>node? The root of the LAST tree is a node which will receive the token last. The NEXT node w.r.t to a node is the node which should receive the token next.&nbsp;</p><p><br></p><p>Initially all the nodes point their <strong>LAST</strong> reference to the the node which holds the token. Now when a node requests for the token , the initial LAST node will point its LAST and NEXT pointers to this requested node. Similarly , when another node comes in with a request for the token, these 2 nodes point their LAST to the node which requested the token. </p><p>For example, Consider 5 nodes <strong>A</strong>, <strong>B</strong>, <strong>C</strong>, <strong>D</strong>, <strong>E</strong> where A holds the token. So first step is , all the other nodes point their <strong>LAST</strong> to <strong>A</strong>. Now,<strong> C</strong> comes in with a request to the token. A's LAST and NEXT pointers are updated and pointed to C. Then E comes in with a token request , now C's and A's &nbsp;LAST pointer is updated to point towards E and C's NEXT is updated to E. And then D comes in with a &nbsp;token request , E's, C's, A's LAST now point to D and E's NEXT will point to D.</p><p>After all this mapping and pointing is done, the token is released from the first LAST node , and it moves in the direction NEXT. It follows the NEXT pointer of each node, traversing through all the nodes in the NEXT queue { <em>When a node comes in with a token request, it is automatially added to the NEXT queue when the NEXT pointer of the previous node is updated to this node</em> } and finally reaches the root node of the LAST tree which is C in the given example and one token circulation cycle ends there. Now when the token enters a node , that node will enter its critical section and after that is done, it sends the token to the NEXT node w.r.t to it.</p></div>
         </div>
     </div>
 
 </section>
 
-<section class="mbr-section mbr-section__container article" id="header3-38" data-rv-view="23" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section mbr-section__container article" id="header3-3h" data-rv-view="42" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -145,17 +145,17 @@
     </div>
 </section>
 
-<section class="mbr-section article mbr-section__container" id="content1-39" data-rv-view="25" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
+<section class="mbr-section article mbr-section__container" id="content1-3i" data-rv-view="44" style="background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;">
 
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 lead"><p>So that is how Martin's algorithm works in the token based resource sharing context. Reference notes is taken from a book called "<a href="https://www.google.com/search?q=fundamentals+of+grid+computing&ie=utf-8&oe=utf-8&client=firefox-b-ab" target="_blank">Fundamentals of grid computing</a>". Next post in this pipeline will be on another token based protocol which is Naimi-Trehel.</p><p><br></p><p>Peace out!</p></div>
+            <div class="col-xs-12 lead"><p>That should conclude Naimi-Trehel's algorithm. &nbsp;Note that this series is a short notes on some protocols from "<a href="https://www.google.com/search?q=fundamentals+of+grid+computing&ie=utf-8&oe=utf-8&client=firefox-b-ab" target="_blank">Fundamentals of grid computing</a>".&nbsp;</p><p><br></p><p>Peace out!</p></div>
         </div>
     </div>
 
 </section>
 
-<section class="mbr-section mbr-section-md-padding" id="social-buttons2-3a" data-rv-view="27" style="background-color: rgb(255, 255, 255); padding-top: 30px; padding-bottom: 30px;">
+<section class="mbr-section mbr-section-md-padding" id="social-buttons2-3j" data-rv-view="46" style="background-color: rgb(255, 255, 255); padding-top: 30px; padding-bottom: 30px;">
     
     <div class="container">
         <div class="row">
