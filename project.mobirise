@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Patterns_Backtracking.html",
+    "currentPage": "Games.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 138,
+    "uniqCompNum": 140,
     "versionPublish": "4.7.2",
     "favicon": "@PROJECT_PATH@/assets/images/website-icon-128x128.png",
     "noImageResize": "",
@@ -329,7 +329,7 @@
       "settings": {
         "title": "Art Portfolio",
         "meta_descr": "Voxel art and vector art references",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -690,7 +690,7 @@
       "settings": {
         "title": "Games",
         "meta_descr": "Games and programming portfolio",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -939,6 +939,58 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sapdop.com\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/smartphoneexplosion.gif",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TOSS MY PHONE",
+          "text": "Unreleased mobile title - Hyper casual game&nbsp;<br>Responsible for everything - Art/Design/Code.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sapdop.com\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3v"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1027,7 +1079,7 @@
       "settings": {
         "title": "Contact",
         "meta_descr": "Contact description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -1256,7 +1308,7 @@
       "settings": {
         "title": "About Me",
         "meta_descr": "About me description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1474,7 +1526,7 @@
       "settings": {
         "title": "Page not found",
         "meta_descr": "Requested page cannot be found.",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1607,7 +1659,7 @@
       "settings": {
         "title": "Services",
         "meta_descr": "List of services offered",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -2102,7 +2154,7 @@
       "settings": {
         "title": "Under construction",
         "meta_descr": "The requested webpage is not available at the moment",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2235,7 +2287,7 @@
       "settings": {
         "title": "Winning Deal Algorithm",
         "meta_descr": "Winning deal algorithm for dealing a winnable sequence in the game of solitaire",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2499,7 +2551,7 @@
       "settings": {
         "title": "Hunt and Kill - Maze generation algorithm",
         "meta_descr": "Hunt and kill algorithm for maze generation",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2800,7 +2852,7 @@
       "settings": {
         "title": "Bots Play Games 1 - BlacksmithHit",
         "meta_descr": "First episode of Bots play games , an algorithm to play BlackSmithHit",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3212,7 +3264,7 @@
       "settings": {
         "title": "Bots Play Games 2 - Piano Tiles",
         "meta_descr": "Second episode of Bots play games , an algorithm to play Piano Tiles",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -3624,7 +3676,7 @@
       "settings": {
         "title": "Grid Computing - Resource sharing",
         "meta_descr": "Synchronization protocols for sharing resources in a distributed system",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3925,7 +3977,7 @@
       "settings": {
         "title": "Grid Computing - Martin's algorithm",
         "meta_descr": "Synchronization protocols for sharing resources in a distributed system - Token based algorithm",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -4226,7 +4278,7 @@
       "settings": {
         "title": "Grid Computing - Naimi Trehel's algorithm",
         "meta_descr": "Synchronization protocols for sharing resources in a distributed system - Token based algorithm",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -4527,7 +4579,7 @@
       "settings": {
         "title": "Patterns - Backtracking",
         "meta_descr": "Generating random patterns with a number of tiles for any tile based games",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
